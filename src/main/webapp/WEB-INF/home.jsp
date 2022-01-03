@@ -11,7 +11,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to ARUN Technologies.</h1>
+<h1 align="center">Welcome to Sohail Technologies.</h1>
 <h1 align="center">Very Good Training center for DevOps in Madhapur/hyderabad and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
