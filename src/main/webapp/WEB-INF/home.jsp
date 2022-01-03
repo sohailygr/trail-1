@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>ARUNTechnologies- Home Page</title>
+<title>sohailTechnologies- Home Page</title>
 <link href="${mithunlogo}" rel="icon">
 </head>
 </head>
@@ -20,10 +20,10 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Arun Technologies, 
+		Sohail Technologies, 
 		Madhapur,ayyappa society,Raj residency,
 		hyderabad.
-		+91-9000539537
+		+91-8099660555
 	</span>
 </div>
 <hr>
