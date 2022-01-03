@@ -22,9 +22,9 @@
 	</span>
 	<span style="font-weight: bold;">
 		Arun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
-		+91-9980923226
+		Madhapur,ayyappa society,Raj residency,
+		hyderabad.
+		+91-9000539537
 	</span>
 </div>
 <hr>
